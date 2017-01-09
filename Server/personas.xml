@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Personas>
+  <persona>
+    <nombre>Alvaro</nombre>
+    <apellidos>Tellez</apellidos>
+  </persona>
+    <persona>
+    <nombre>David</nombre>
+    <apellidos>Benitez</apellidos>
+  </persona>
+  <persona>
+    <nombre>Jose Antonio</nombre>
+    <apellidos>Ruiz</apellidos>
+  </persona>
+  <persona>
+    <nombre>Mercedes</nombre>
+    <apellidos>Requena</apellidos>
+  </persona>
+</Personas>
